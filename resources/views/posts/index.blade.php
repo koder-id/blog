@@ -15,8 +15,7 @@
                         </a>
                     </h2>
                     <p class="mt-1 text-sm text-gray-600 line-clamp-2">
-                        Cum qui rem deleniti. Suscipit in dolor veritatis sequi aut. Vero ut earum quis deleniti. Ut a
-                        sunt eum cum ut repudiandae possimus. Nihil ex tempora neque cum consectetur dolores.
+                        {{ $post->body }}
                     </p>
                 </div>
             </li>
