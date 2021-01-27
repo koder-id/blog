@@ -4,4 +4,4 @@
 
 Repo ini sebagai tutorial pembuatan blog menggunakan PHP-Laravel di Koder.
 
-Aplikasi dapat dicoba di [Belajar bikin blog](https://05946f0c.koder.id/)
+Aplikasi dapat dicoba di [Belajar bikin blog](https://23ab1732.kdr.dev)
